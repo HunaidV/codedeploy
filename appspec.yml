@@ -6,6 +6,12 @@ files:
   - source: /
     destination: /var/www/html
 
+permissions:
+  - object: /var/www/html/code
+    mode: 744
+    owner: knpay:apache
+    type:
+      - directory
 
 
 hooks:

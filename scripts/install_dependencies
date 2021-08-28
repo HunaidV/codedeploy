@@ -1,2 +1,1 @@
-echo "Dependencies installed"
-
+echo "Dependencies installed" > /var/www/html/code/index.hmtl

@@ -1,4 +1,4 @@
 #!/bin/bash
 
 rm -rf /var/www/html/scripts
-rm appspec.yml
+rm -rf appspec.yml
